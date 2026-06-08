@@ -1,2 +1,2 @@
 # Hot-Potato
-A Hot potato menu.
+A hot potato menu.
